@@ -1,6 +1,10 @@
 # Attendance-System-Using-Real-time-Face-Recognition
 Attendance System Using Real Time Face Recognition
 
+<img width="558" alt="image" src="https://user-images.githubusercontent.com/54055303/204211801-b8c531a3-ce48-41bc-94c5-6fe6f3cb7d87.png">
+
+<img width="778" alt="1" src="https://user-images.githubusercontent.com/54055303/204211876-c3d2b620-fccc-4572-a850-11ddc928b9b2.png">
+
 Libraries Required:-
 1)	OpenCV :- OpenCV (Open Source Computer Vision Library) is an open-source computer vision and machine learning software library. We need it to take pictures using our webcam and some manipulation needed to be done in the image.
 2)	Pillow :-  The Python Imaging Library adds image processing capabilities to your Python interpreter.This library provides extensive file format support, an efficient internal representation, and fairly powerful image processing capabilities.
